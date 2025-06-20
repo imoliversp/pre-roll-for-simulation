@@ -2,6 +2,7 @@ from maya import cmds
 
 """
 Script made by Oliver Silva aka @imoliversp
+oliversp_art@outlook.com
 
 This script prepares a character for the simulation process by resetting transformation attributes 
 and setting keyframes for a specific hierarchy, controllers or joints. It automates repetitive tasks such as:
