@@ -1,3 +1,5 @@
+![preCFX_thumbnail](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/189bf827-1699-4f3c-b45e-509d0f35a0db/dk05hzn-1ea19cf0-d6fc-4549-9d31-1e2e9210b339.png/v1/fill/w_1280,h_334/precfx_thumbnail_by_imoliversp_dk05hzn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzM0IiwicGF0aCI6IlwvZlwvMTg5YmY4MjctMTY5OS00ZjNjLWI0NWUtNTA5ZDBmMzVhMGRiXC9kazA1aHpuLTFlYTE5Y2YwLWQ2ZmMtNDU0OS05ZDMxLTFlMmU5MjEwYjMzOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AOBOttAE1s4VmkRqu1r5j2z_pdFjUvSPkAxDP2PUhq8)
+
 # Maya CFX Pre-Roll Generator
 
 This repository contains a Python script for **Autodesk Maya** that automatically creates a **pre-roll** for **Character FX** scenes. It is useful for simulating dynamics such as hair, cloth, or muscles, allowing the movement to settle before the main animation begins.🎬
@@ -52,7 +54,7 @@ Use the variable `clothDamp` and change its value to set how much time you need 
 ```bash
 git clone https://github.com/imoliversp/pre-roll-for-simulation
 ```
-2. Locate your Maya user scripts folder  
+2. Locate your Maya user _scripts_ folder:  
 - Windows:
 ```C:\Users\<YourUsername>\Documents\maya\<version>\scripts ```  
 - macOS:
@@ -61,8 +63,19 @@ git clone https://github.com/imoliversp/pre-roll-for-simulation
 ```/home/<YourUsername>/maya/<version>/scripts```
 3. Copy `preroll_CFX.py` into that folder.
 4. Restart Maya.
-5. Import it in the Script Editor
+5. Import it in the Script Editor.  
 
+Optional steps:
+
+6. Place the `preroll_CFX.png` in the _icons_ folder:
+- Windows:
+```C:\Users\<YourUsername>\Documents\maya\<version>\prefs\icons ```  
+- macOS:
+```/Users/<YourUsername>/Library/Preferences/Autodesk/maya/<version>/prefs/icons```  
+- Linux:
+```/home/<YourUsername>/maya/<version>/prefs/icons```
+7. Add the script to the Shelf.
+8. Edit Icon --> Icon Name --> Select the icon from the folder.
 ---
 
 For more information, check the [Maya commands](https://help.autodesk.com/cloudhelp/2025/ENU/Maya-Tech-Docs/CommandsPython/) in the [Autodesk](https://www.autodesk.com/) official website.
