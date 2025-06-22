@@ -10,11 +10,11 @@ This repository contains a Python script for **Autodesk Maya** that automaticall
 
 🦴 If your character doesn't have Controllers, it uses the joints.
 
-![preroll w jnt](https://www.deviantart.com/stash/0pqwrwh9xi9)
+![preroll w jnt](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/preroll_jnts.gif?raw=true)
 
 🎮 If your character is rigged with Controllers, it uses those instead.
 
-![preroll w ctrl 01](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/189bf827-1699-4f3c-b45e-509d0f35a0db/dk05jmj-ab9dab99-a0b9-47b5-8b4a-0bd48e091eb5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4OWJmODI3LTE2OTktNGYzYy1iNDVlLTUwOWQwZjM1YTBkYlwvZGswNWptai1hYjlkYWI5OS1hMGI5LTQ3YjUtOGI0YS0wYmQ0OGUwOTFlYjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7p_RsZJd67Os5CgO4quKZ2hVzapyIweufelSEcEPzzE)
+![preroll w ctrl 01](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/preroll_ctrl.gif?raw=true)
 
 🎯 If there is more than one object with Controllers in the scene, you can filter which ones will be affected. Just select the group which cointains the Controllers you want to be affected.
 
