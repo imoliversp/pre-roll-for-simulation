@@ -42,9 +42,9 @@ Use the variable `clothDamp` and change its value to set how much time you need 
 
 ---
 
-## Installation
+## 📦 Installation
 
-1. 📦 Download or clone this repository:
+1. Download or clone this repository:
 
 ```bash
 git clone https://github.com/imoliversp/pre-roll-for-simulation
