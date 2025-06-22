@@ -8,15 +8,15 @@ This repository contains a Python script for **Autodesk Maya** that automaticall
 
 🦴 If your character doesn't have Controllers, it uses the joints.
 
-![preroll w jnt](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/gifs/preroll_jnts.gif?raw=true)
+![preroll w jnt](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/preroll_jnts.gif?raw=true)
 
 🎮 If your character is rigged with Controllers, it uses those instead.
 
-![preroll w ctrl 01](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/gifs/preroll_ctrl.gif?raw=true)
+![preroll w ctrl 01](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/preroll_ctrl.gif?raw=true)
 
 🎯 If there is more than one object with Controllers in the scene, you can filter which ones will be affected. Just select the group which cointains the Controllers you want to be affected.
 
-![preroll w ctrl 02](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/gifs/preroll_filter_ctrl.gif?raw=true)
+![preroll w ctrl 02](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/preroll_filter_ctrl.gif?raw=true)
 
 ---
 
@@ -29,7 +29,7 @@ This repository contains a Python script for **Autodesk Maya** that automaticall
 
 Use the variable `preRoll` and change its value to the specific time you need of pre-roll.
 
-![variables](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/gifs/variables.gif?raw=true)
+![variables](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/variables.gif?raw=true)
 
 Use the variable `clothDamp` and change its value to set how much time you need for the physics to be stabilized.
 
