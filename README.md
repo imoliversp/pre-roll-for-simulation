@@ -29,7 +29,7 @@ This repository contains a Python script for **Autodesk Maya** that automaticall
 
 Use the variable `preRoll` and change its value to the specific time you need of pre-roll.
 
-![variables](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/189bf827-1699-4f3c-b45e-509d0f35a0db/dk03sxd-d94107c4-2d03-4388-8cbf-f6f2b816bfa8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4OWJmODI3LTE2OTktNGYzYy1iNDVlLTUwOWQwZjM1YTBkYlwvZGswM3N4ZC1kOTQxMDdjNC0yZDAzLTQzODgtOGNiZi1mNmYyYjgxNmJmYTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9UHBJA1qrm0SuzwlyqitTQukqhmpYEPXAqSBy3OmHD8)
+![variables](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/gifs/variables.gif?raw=true)
 
 Use the variable `clothDamp` and change its value to set how much time you need for the physics to be stabilized.
 
