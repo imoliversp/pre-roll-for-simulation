@@ -10,7 +10,7 @@ This repository contains a Python script for **Autodesk Maya** that automaticall
 
 🦴 If your character doesn't have Controllers, it uses the joints.
 
-![preroll w jnt](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/189bf827-1699-4f3c-b45e-509d0f35a0db/dk05jzq-af5e329e-3e22-4033-8bf2-3d393637b76b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4OWJmODI3LTE2OTktNGYzYy1iNDVlLTUwOWQwZjM1YTBkYlwvZGswNWp6cS1hZjVlMzI5ZS0zZTIyLTQwMzMtOGJmMi0zZDM5MzYzN2I3NmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HKuSkLiMv0aqWbhKNMqYn8nGmFti_jzfvfUsZccDLNQ)
+![preroll w jnt](https://www.deviantart.com/stash/0pqwrwh9xi9)
 
 🎮 If your character is rigged with Controllers, it uses those instead.
 
