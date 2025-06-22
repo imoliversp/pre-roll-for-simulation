@@ -33,7 +33,7 @@ Use the variable `preRoll` and change its value to the specific time you need of
 
 ![variables](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/variables.gif?raw=true)
 
-Use the variable `clothDamp` and change its value to set how much time you need for the physics to be stabilized.
+Use the variable `clothDamp` and change its value to set how much time you need for the physics to be settled.
 
 >**Note**  
 > If your transformation attributes (translate, rotate, scale) are locked. Their locked state will remain unchanged.
