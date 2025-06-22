@@ -33,6 +33,9 @@ Use the variable `preRoll` and change its value to the specific time you need of
 
 Use the variable `clothDamp` and change its value to set how much time you need for the physics to be stabilized.
 
+>**Note**  
+> If your transformation attributes (translate, rotate, scale) are locked. Their locked state will remain unchanged.
+
 ---
 
 ## 🖥️ Requirements
