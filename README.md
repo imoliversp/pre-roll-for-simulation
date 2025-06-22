@@ -52,6 +52,17 @@ Use the variable `clothDamp` and change its value to set how much time you need 
 ```bash
 git clone https://github.com/imoliversp/pre-roll-for-simulation
 ```
+2. Locate your Maya user scripts folder  
+- Windows:
+```C:\Users\<YourUsername>\Documents\maya\<version>\scripts ```  
+- macOS:
+```/Users/<YourUsername>/Library/Preferences/Autodesk/maya/<version>/scripts```  
+- Linux:
+```/home/<YourUsername>/maya/<version>/scripts```
+3. Copy `preroll_CFX/py` into that folder.
+4. Restart Maya.
+5. Import it in the Script Editor
+
 ---
 
 For more information, check the [Maya commands](https://help.autodesk.com/cloudhelp/2025/ENU/Maya-Tech-Docs/CommandsPython/) in the [Autodesk](https://www.autodesk.com/) official website.
