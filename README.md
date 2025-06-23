@@ -52,7 +52,7 @@ Use the variable `clothDamp` and change its value to set how much time you need 
 1. Download or clone this repository:
 
 ```
-git clone https://github.com/imoliversp/pre-roll-for-simulation
+git clone https://github.com/imoliversp/pre-roll-for-characterfx
 ```
 2. Locate your Maya user _scripts_ folder:  
 - Windows:
