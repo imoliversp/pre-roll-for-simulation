@@ -1,4 +1,4 @@
-![preCFX_thumbnail](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/189bf827-1699-4f3c-b45e-509d0f35a0db/dk05hzn-1ea19cf0-d6fc-4549-9d31-1e2e9210b339.png/v1/fill/w_1280,h_334/precfx_thumbnail_by_imoliversp_dk05hzn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzM0IiwicGF0aCI6IlwvZlwvMTg5YmY4MjctMTY5OS00ZjNjLWI0NWUtNTA5ZDBmMzVhMGRiXC9kazA1aHpuLTFlYTE5Y2YwLWQ2ZmMtNDU0OS05ZDMxLTFlMmU5MjEwYjMzOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AOBOttAE1s4VmkRqu1r5j2z_pdFjUvSPkAxDP2PUhq8)
+![preCFX_thumbnail](https://github.com/imoliversp/contentMedia/blob/main/pre-roll-for-simulation/preCFX_thumbnail.png?raw=true)
 
 # Maya CFX Pre-Roll Generator
 
@@ -10,15 +10,15 @@ This repository contains a Python script for **Autodesk Maya** that automaticall
 
 🦴 If your character doesn't have Controllers, it uses the joints.
 
-![preroll w jnt](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/preroll_jnts.gif?raw=true)
+![preroll w jnt](https://github.com/imoliversp/contentMedia/blob/main/pre-roll-for-simulation/preroll_jnts.gif?raw=true)
 
 🎮 If your character is rigged with Controllers, it uses those instead.
 
-![preroll w ctrl 01](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/preroll_ctrl.gif?raw=true)
+![preroll w ctrl 01](https://github.com/imoliversp/contentMedia/blob/main/pre-roll-for-simulation/preroll_ctrl.gif?raw=true)
 
 🎯 If there is more than one object with Controllers in the scene, you can filter which ones will be affected. Just select the group which cointains the Controllers you want to be affected.
 
-![preroll w ctrl 02](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/preroll_filter_ctrl.gif?raw=true)
+![preroll w ctrl 02](https://github.com/imoliversp/contentMedia/blob/main/pre-roll-for-simulation/preroll_filter_ctrl.gif?raw=true)
 
 ---
 
@@ -31,7 +31,7 @@ This repository contains a Python script for **Autodesk Maya** that automaticall
 
 Use the variable `preRoll` and change its value to the specific time you need of pre-roll.
 
-![variables](https://github.com/imoliversp/pre-roll-for-simulation/blob/main/mediaContent/variables.gif?raw=true)
+![variables](https://github.com/imoliversp/contentMedia/blob/main/pre-roll-for-simulation/variables.gif?raw=true)
 
 Use the variable `clothDamp` and change its value to set how much time you need for the physics to be settled.
 
@@ -95,4 +95,4 @@ If you find this script useful, feel free to tag me on [LinkedIn](https://www.li
 
 Enquiries: _oliversp_art@outlook.com_
 
-![imoliversp](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/189bf827-1699-4f3c-b45e-509d0f35a0db/dk05jdb-a5dcae78-fe61-449a-b2e4-85110febccb4.png/v1/fill/w_1280,h_157/imoliversp_bottompage_by_imoliversp_dk05jdb-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3IiwicGF0aCI6IlwvZlwvMTg5YmY4MjctMTY5OS00ZjNjLWI0NWUtNTA5ZDBmMzVhMGRiXC9kazA1amRiLWE1ZGNhZTc4LWZlNjEtNDQ5YS1iMmU0LTg1MTEwZmViY2NiNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WTb_Rzw80ZbYve9sV5sjIPr4r_G3hc46b9OLkyYazG0)
+![imoliversp](https://github.com/imoliversp/contentMedia/blob/main/thumbnails/BottomPage2.png?raw=true)
