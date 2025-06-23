@@ -76,9 +76,6 @@ Optional steps:
 ```/home/<YourUsername>/maya/<version>/prefs/icons```
 7. Add the script to the Shelf.
 8. Edit Icon --> Icon Name --> Select the icon from the _icons_ folder.
-
->**Note**  
-> You can delete the _mediaContent_ folder, as it's only for repository previews.
 ---
 
 For more information, check the [Maya commands](https://help.autodesk.com/cloudhelp/2025/ENU/Maya-Tech-Docs/CommandsPython/) in the [Autodesk](https://www.autodesk.com/) official website.
